@@ -1,14 +1,9 @@
+import React from 'react'
 
-function App() {
+const App = () => {
   return (
-    <div className="App">
-      <header className="App-header">
-        <p>
-          modern landing UI/UX p
-        </p>
-      </header>
-    </div>
-  );
+    <div>Hello from Liana</div>
+  )
 }
 
-export default App;
+export default App
